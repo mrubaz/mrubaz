@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭I’m currently working on focusing on innovative and streamlined methods for delivering high-quality mobile applications.<br>🧑‍🤝‍🧑I’m looking to collaborate on projects involving Flutter, mobile app development, and backend integration.<br>🤝I’m looking for help with exploring new opportunities for Flutter development and best practices in mobile development projects.<br>🌱I’m currently learning about advanced Flutter concepts and integrating AI and data science into mobile applications.<br>💬 Ask me about mobile app development with Flutter, optimizing app performance, and best practices for backend integration using technologies like Firebase and Node.js.<br>⚡ Fun fact about me is that I love watching movies in cinemas.
+- 🔭 I’m interested new innovation
+- 🧑‍🤝‍🧑 I’m a passionate mobile app developer
+- 💞️ I’m looking to collaborate on Software Projects
+- 📫 How to reach me ? +92 3041965638 --   <a href="mailto:rubazjamshaid@gmail.com">rubazjamshaid@gmail.com</a>
 
 
 ## 🌐 Socials:
