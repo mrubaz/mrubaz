@@ -2,7 +2,7 @@
 - 🔭 I’m interested new innovation
 - 🧑‍🤝‍🧑 I’m a passionate mobile app developer
 - 💞️ I’m looking to collaborate on Software Projects
-- 📫 How to reach me ? +92 3041965638 |   <a href="mailto:rubazjamshaid@gmail.com">Email</a> |   <a href="mailto:https://mrubaz.netlify.app/">Portfolio</a>
+- 📫 How to reach me ? +92 3041965638 |   <a href="mailto:rubazjamshaid@gmail.com">Email</a> |   <a href="https://mrubaz.netlify.app/">Portfolio</a>
 
 
 ## 🌐 Socials:
